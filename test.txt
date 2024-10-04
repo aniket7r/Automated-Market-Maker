@@ -1,0 +1,17 @@
+TL
+0 ChainLinkLabs SELL ETH $180 #40 1
+0 ConsenSys BUY BTC $250 #35 8
+0 PolygonTech BUY SOL $90 #60 10
+1 AaveInc BUY ETH $200 #15 7
+1 ChainLinkLabs SELL BTC $230 #45 6
+1 ChainLinkLabs BUY DOT $70 #20 6
+3 PolygonTech SELL UNI $120 #25 -1
+4 ConsenSys SELL BTC $100 #20 -1
+4 ConsenSys SELL UNI $140 #35 10
+4 AaveInc BUY UNI $160 #18 0
+4 ConsenSys BUY UNI $100 #35 5
+5 ConsenSys SELL UNI $90 #10 0
+5 PolygonTech BUY ETH $190 #30 0
+6 ChainLinkLabs SELL ETH $140 #150 -1
+6 ConsenSys BUY ETH $180 #20 1
+6 AaveInc BUY BTC $170 #15 3

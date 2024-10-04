@@ -1,4 +1,4 @@
-# Market-Maker
+# Automated Market-Maker
 This is a C++ application that models the behavior of an Automated Market Maker (AMM). To begin using it, just run `make` to compile the code. After that, you can explore various options by passing `-h` or `-help` to understand how to interact with the program.
 
 ### Key Features and Options:
